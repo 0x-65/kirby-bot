@@ -5,4 +5,4 @@
 
 ## preview
 
-![Screenshot](assistant.png)
+![Screenshot](preview.png)
