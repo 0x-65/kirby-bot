@@ -5,4 +5,8 @@
 
 ## preview
 
-![Screenshot](preview.png)
+![Screenshot](imgs/help.png)
+
+![Screenshot](imgs/info.png)
+
+![Screenshot](imgs/clrs.png)
