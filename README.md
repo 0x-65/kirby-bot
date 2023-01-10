@@ -1,8 +1,8 @@
-- a custom bot for my discord server
+## note
 - ***might*** upload the source code later
 - https://discord.gg/YxkSp5fKG3
 
-# preview
+## preview
 
 ![Screenshot](imgs/help.png)
 
