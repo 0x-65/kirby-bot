@@ -1,6 +1,6 @@
 ## contact me
 
-- [discord profile](https://discord.com/users/700937948421685362) 
+- [discord profile](https://discord.com/users/700937948421685362) (eliaso#1200)
 - [discord server](https://discord.gg/YxkSp5fKG3)
 
 ## preview
