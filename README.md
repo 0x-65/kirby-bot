@@ -7,4 +7,4 @@
 
 ![Screenshot](preview.png)
 
-**note:** this is just a preview but ill probably upload the source code later
+This is just a preview, I'll upload the source code when I feel like it.
