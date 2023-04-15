@@ -5,10 +5,6 @@
 
 ## preview
 
-![Screenshot](imgs/help.png)
-
-![Screenshot](imgs/info.png)
-
-![Screenshot](imgs/clrs.png)
+![Screenshot](preview.png)
 
 **note:** this is just a preview but ill probably upload the source code later
